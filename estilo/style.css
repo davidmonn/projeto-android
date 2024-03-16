@@ -41,9 +41,7 @@ Mais escuro - #332C2C
 
 body {
     background-color: var(--cor2);
-    font-family: var(--font-padrao);
-    display: block;
-    
+    font-family: var(--font-padrao);  
 }
 
 a.externo::after {
