@@ -74,7 +74,7 @@ header > p {
     color: white;
     text-align: center;
     margin: auto;
-    max-width: 600px;
+    max-width: 720px;
     padding-right: 10px; /*Centralizar melhor na direita*/
     padding-left: 10px; /*Centralizar melhor na esquerda*/
     /* Com isso qquando a tela diminuir ele nao ira ficar espremido */
@@ -85,7 +85,7 @@ header > p {
 
 main {
     background-color: white;
-    padding: 20px;
+    padding: 50px;
     /*border-radius: 10px;*/
     border-bottom-left-radius: 10px; /* Parte inferior da esquerda */
     border-bottom-right-radius: 10px; /* Parte inferior da direita */
